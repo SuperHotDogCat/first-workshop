@@ -2,7 +2,7 @@
 first-workshop
 
 # Python
-このリポジトリ
+[Python workshop](https://github.com/SuperHotDogCat/PYTHONWORKSHOP)
 
 # Shell
 https://eeic-software1.github.io/2023/week1/
