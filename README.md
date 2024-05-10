@@ -5,7 +5,7 @@ first-workshop
 このリポジトリ
 
 # Shell
-このリポジトリ
+https://eeic-software1.github.io/2023/week1/
 
 # GitHub
 https://eeic-software1.github.io/2023/git/
